@@ -2,7 +2,7 @@
 
 I'm a lifestyle entrepreneur, content creator, AI educator, and online business expert with 12+ years of experience. I'm the founder of **[Creator School AI](https://creatorschool.ai)**, creator of **[AI Creator OS](https://creatorschool.ai/ai-creator-os)**, and host of the **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)**, watched by 100,000+ creators from 110+ countries.
 
-I help creators and founders build their own AI Operating System (AI OS).
+I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life.
 
 An AI OS turns Claude Code into the brain of your business. It connects to your tools, automates your business and life, and does the actual work for you. No more copy-paste from a chatbot.
 
