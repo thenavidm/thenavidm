@@ -4,7 +4,9 @@ I'm a lifestyle entrepreneur, content creator, AI educator, and online business 
 
 I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life.
 
-I run my entire business and life on my own AI OS every single day. It writes and publishes my content in my voice, sends my emails, runs my automations, and spawns sub-agents to handle whole projects while I sleep. It also built the software the business runs on: checkout and billing, CRM, email, community, courses, scheduling, link tracking, affiliates, and a lot more. No tech team, no developers.
+I run my entire business and life on mine every single day, with Claude Code as the brain. It writes and publishes my content in my voice, sends my emails, and spawns sub-agents that handle whole projects while I sleep.
+
+I also built the software the business runs on with Claude Code: checkout, billing, CRM, email, community, courses, scheduling, link tracking, and affiliates. No tech team, no developers.
 
 ---
 
