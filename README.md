@@ -6,7 +6,7 @@ I help creators and founders master AI and build their own AI Operating System (
 
 ---
 
-## 🛠️ Stack
+## 🛠️ Tech Stack
 
 - **Agents** – Claude Code (primary), Codex, Gemini, Perplexity Computer, Hermes
 - **Web** – Next.js, React, TypeScript, Tailwind CSS, Framer Motion
