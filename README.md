@@ -4,7 +4,7 @@ I'm a lifestyle entrepreneur, content creator, AI educator, and online business 
 
 I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. My work has been featured in Forbes, Entrepreneur, HuffPost, Inc, and Business Insider, and every week I share what's working through my actionable Navid Insider newsletter and podcast.
 
-I built my entire business with Claude Code. No tech team, no developers. I replaced Kit, ThriveCart, Circle, Calendly, and a lot more with tools I built myself.
+I built my entire business with Claude Code. No tech team, no developers. My own checkout, CRM, email platform, community, courses, scheduling, link tracker, and affiliate platform, plus a lot more. All in one codebase.
 
 Beyond business, I'm a digital nomad and global citizen who has lived in 16+ countries, traveled to over 50, and holds permanent residency in Panama. I'm obsessed with discipline, longevity, health, self-improvement, and travel, and I share everything I learn here so you can design a life on your own terms too. I've been at this since 2013 and I'm just getting started.
 
