@@ -2,44 +2,35 @@
 
 I'm a lifestyle entrepreneur, content creator, and AI educator. Founder of **[Creator School AI](https://creatorschool.ai)**, creator of **[AI Creator OS](https://creatorschool.ai/ai-creator-os)**, and host of the **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)**, watched by 100,000+ creators from 110+ countries.
 
-I help creators and founders master AI and build their own AI Operating System to automate their business and life, with no coding needed. Everything on this profile was built with Claude Code, Codex, and agents.
+I built my entire business with Claude Code. No tech team, no developers. Along the way I replaced Kit, ThriveCart, WordPress, ClickFunnels, and Circle with tools I built myself, and I teach creators and founders to do the same by building their own AI Operating System with Claude Code as the brain.
 
 ---
-
-## 👨‍💻 Work In Progress
-
-Currently building – **[Creator School AI](https://creatorschool.ai)**. It's live!
 
 ## 🛠️ Stack
 
-- **AI & agents** – Claude Code (primary), Codex, MCP servers, custom skills and subagents
-- **Web** – Next.js, React, TypeScript, Tailwind CSS
-- **Data & payments** – Supabase, Postgres, Stripe
-- **Media & storage** – Cloudflare R2, Cloudflare Images, Bunny Stream, Vimeo
-- **Mobile** – Capacitor (iOS and Android)
-- **Infra** – Vercel, Cloudflare, Upstash Redis, Resend, AWS SES
-- **Automation** – Playwright
+- **Agents** – Claude Code, Codex
+- **What I build for them** – 74 MCP servers, custom skills, plugins, subagents, hooks, CLIs
+- **Web** – Next.js, React, TypeScript, Tailwind CSS, Framer Motion
+- **Data** – Supabase, Typesense, Upstash Redis
+- **Payments** – Stripe, through my own checkout package
+- **Email** – Amazon SES
+- **Infra** – Vercel, Cloudflare, Hetzner, Hostinger VPS
+
+## ⚙️ Built Myself, Not Bought
+
+Courses and community, checkout and billing, CRM, email and automations, link tracker, affiliate portal, the 600+ tool library, and the MCP connectors that wire Claude into every platform the business runs on. One codebase, one site.
 
 ## 🚀 What I'm Building
 
-- **[Creator School AI](https://creatorschool.ai)** – the #1 AI resource for creators and founders. Courses, templates, and free resources to build, grow, and scale your online business with AI.
-- **[AI Creator OS](https://creatorschool.ai/ai-creator-os)** – the complete system for building and scaling your creator business with AI, from content creation to automation workflows.
+- **[Creator School AI](https://creatorschool.ai)** – the #1 AI resource for creators and founders. Proven courses, templates, and free resources to build, grow, and scale your online business with AI.
 - **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)** – free virtual summit, watched by 100,000+ creators from 110+ countries.
-- **[navid.me](https://navid.me)** – my personal site. My story, career timeline, articles, reviews, and free resources.
-- **[navid.bio](https://navid.bio)** – my store.
-
-## 📫 Links
-
-- Creator School AI: [creatorschool.ai](https://creatorschool.ai)
-- AI Creator OS: [creatorschool.ai/ai-creator-os](https://creatorschool.ai/ai-creator-os)
-- AI Creator Summit: [creatorschool.ai/ai-creator-summit](https://creatorschool.ai/ai-creator-summit)
-- Personal website: [navid.me](https://navid.me)
-- Store: [navid.bio](https://navid.bio)
-- YouTube: [@thenavidm](https://youtube.com/@thenavidm?sub_confirmation=1) and [@creatorschoolai](https://youtube.com/@creatorschoolai?sub_confirmation=1)
-- X: [@thenavidm](https://x.com/thenavidm) and [@creatorschoolai](https://x.com/creatorschoolai)
-- Instagram: [@thenavidm](https://instagram.com/thenavidm)
-- LinkedIn: [thenavidm](https://linkedin.com/in/thenavidm)
+- **[AI Creator OS](https://creatorschool.ai/ai-creator-os)** – the complete AI operating system for creators, with new live practical AI workshops every month. Coming soon.
+- **[navid.me](https://navid.me)** – where I write about AI, discipline, and building a profitable business on your own terms.
 
 ---
 
-© 2026 [Creator School AI](https://creatorschool.ai) is a trademark of NM Media. All rights reserved. Made with ❤️ by [Navid Moazzez](https://navid.me).
+## 📫 Let's Connect
+
+| 🌐 Website | 🎓 Creator School | 🔗 Links | ⚫️ X | ▶️ YouTube | 💼 LinkedIn | 📸 Instagram |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [navid.me](https://navid.me) | [creatorschool.ai](https://creatorschool.ai) | [navid.bio](https://navid.bio) | [@thenavidm](https://x.com/thenavidm) | [@thenavidm](https://youtube.com/@thenavidm?sub_confirmation=1) | [in/thenavidm](https://linkedin.com/in/thenavidm) | [@thenavidm](https://instagram.com/thenavidm) |
