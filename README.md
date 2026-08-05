@@ -4,7 +4,7 @@ I'm a lifestyle entrepreneur, content creator, AI educator, and online business 
 
 I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. Three layers: **context** so it knows your business and how you work, **skills** so it runs your workflows on command, and **tools** so it can actually do the work.
 
-I built mine first. It writes and publishes my content in my voice, runs my automations, and built the software the business runs on: checkout and billing, CRM, email, community, courses, scheduling, link tracking, affiliates, and a lot more. No tech team, no developers, and each one replaced software I used to pay for. Claude Code is my agent of choice, but any agent can sit in that seat.
+I built my own AI OS first. It writes and publishes my content in my voice, runs my automations, and built the software the business runs on: checkout and billing, CRM, email, community, courses, scheduling, link tracking, affiliates, and a lot more. No tech team, no developers, and each one replaced software I used to pay for. Claude Code is my agent of choice, but any agent can sit in that seat.
 
 ---
 
