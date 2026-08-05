@@ -2,7 +2,9 @@
 
 I'm a lifestyle entrepreneur, content creator, AI educator, and online business expert with 12+ years of experience. I'm the founder of **[Creator School AI](https://creatorschool.ai)**, creator of **[AI Creator OS](https://creatorschool.ai/ai-creator-os)**, and host of the **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)**, watched by 100,000+ creators from 110+ countries.
 
-I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. I built mine first. Claude Code is the brain: it writes and publishes my content, runs my automations, and built the software the business runs on, from checkout and billing to CRM, email, community, courses, scheduling, link tracking, and affiliates. No tech team, no developers, and every one of those replaced software I used to pay for.
+I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. Three layers: **context** so it knows your business and how you work, **skills** so it runs your workflows on command, and **tools** so it can actually do the work.
+
+I built mine first. It writes and publishes my content, runs my automations, and built the software the business runs on: checkout and billing, CRM, email, community, courses, scheduling, link tracking, affiliates, and a lot more. No tech team, no developers, and each one replaced software I used to pay for. Claude Code is my agent of choice, but any agent can sit in that seat.
 
 ---
 
