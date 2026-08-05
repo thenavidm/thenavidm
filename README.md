@@ -1,19 +1,20 @@
 # Hey, I'm Navid 👋
 
-I'm a lifestyle entrepreneur, content creator, and AI educator. Founder of **[Creator School AI](https://creatorschool.ai)**, creator of **[AI Creator OS](https://creatorschool.ai/ai-creator-os)**, and host of the **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)**, watched by 100,000+ creators from 110+ countries.
+I'm a lifestyle entrepreneur, content creator, AI educator, and online business expert with 12+ years of experience. Founder of **[Creator School AI](https://creatorschool.ai)**, creator of **[AI Creator OS](https://creatorschool.ai/ai-creator-os)**, and host of the **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)**, watched by 100,000+ creators from 110+ countries. My work has been featured in Forbes, Entrepreneur, HuffPost, Inc, and Business Insider.
 
 I built my entire business with Claude Code. No tech team, no developers. Along the way I replaced Kit, ThriveCart, WordPress, ClickFunnels, and Circle with tools I built myself, and I teach creators and founders to do the same by building their own AI Operating System (AI OS) with Claude Code as the brain.
+
+Beyond business, I'm a digital nomad and global citizen who has lived in 16+ countries, traveled to over 50, and holds permanent residency in Panama. I'm obsessed with discipline, longevity, health, self-improvement, and travel.
 
 ---
 
 ## 🛠️ Stack
 
-- **Agents** – Claude Code, Codex
-- **What I build for them** – 74 MCP servers, custom skills, plugins, subagents, hooks, CLIs
+- **Agents** – Claude Code (primary), Codex, Gemini, Perplexity Computer, Hermes
 - **Web** – Next.js, React, TypeScript, Tailwind CSS, Framer Motion
 - **Data** – Supabase, Typesense, Upstash Redis
-- **Payments** – Stripe, through my own checkout package
-- **Email** – Amazon SES
+- **Payments** – Stripe and PayPal, through my own custom checkout
+- **Email** – Amazon SES (primary), Resend (backup)
 - **Infra** – Vercel, Cloudflare, Hetzner, Hostinger VPS
 
 ## ⚙️ Built Myself, Not Bought
