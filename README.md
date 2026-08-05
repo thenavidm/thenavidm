@@ -2,11 +2,9 @@
 
 I'm a lifestyle entrepreneur, content creator, AI educator, and online business expert with 12+ years of experience. I'm the founder of **[Creator School AI](https://creatorschool.ai)**, creator of **[AI Creator OS](https://creatorschool.ai/ai-creator-os)**, and host of the **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)**, watched by 100,000+ creators from 110+ countries.
 
-I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life. My work has been featured in Forbes, Entrepreneur, HuffPost, Inc, and Business Insider, and every week I share what's working through my actionable Navid Insider newsletter and podcast.
+I help creators and founders master AI and build their own AI Operating System (AI OS) to automate their business and life.
 
-I built my entire business with Claude Code. No tech team, no developers. I replaced Kit, ThriveCart, Circle, Calendly, and a lot more with tools I built myself.
-
-Beyond business, I'm a digital nomad and global citizen who has lived in 16+ countries, traveled to over 50, and holds permanent residency in Panama. I'm obsessed with discipline, longevity, health, self-improvement, and travel, and I share everything I learn here so you can design a life on your own terms too. I've been at this since 2013 and I'm just getting started.
+I built my entire business with Claude Code. No tech team, no developers. My own checkout and billing, CRM, email platform, community, courses, scheduling, link tracker, affiliate system, and many more, all in one codebase. Every one of them replaced software I used to pay for.
 
 ---
 
