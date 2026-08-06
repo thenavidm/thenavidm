@@ -12,7 +12,7 @@ You don't need to know how to code. You need to know how to set it up.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech stack
 
 - **Agents** – Claude Code (primary), Codex, Gemini, Perplexity Computer, Hermes
 - **Web** – Next.js, React, TypeScript, Tailwind CSS, Framer Motion
@@ -21,7 +21,7 @@ You don't need to know how to code. You need to know how to set it up.
 - **Email** – Amazon SES (primary), Resend (backup)
 - **Infra** – Vercel, Cloudflare, Hetzner, Hostinger VPS
 
-## 🚀 What I'm Building
+## 🚀 What I'm building
 
 - **[Creator School AI](https://creatorschool.ai)** – a global AI education and discovery platform. Premium AI training, consulting, and tools that help creators and founders master AI content creation and build their own AI Operating System (AI OS), with no coding needed.
 - **[AI Creator Summit](https://creatorschool.ai/ai-creator-summit)** – free virtual summit, watched by 100,000+ creators from 110+ countries.
@@ -30,7 +30,7 @@ You don't need to know how to code. You need to know how to set it up.
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's connect
 
 | 🌐 Website | 🎓 Creator School | 🔗 Links | ⚫️ X | ▶️ YouTube | 🎬 CS YouTube | 💼 LinkedIn | 📸 Instagram |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
